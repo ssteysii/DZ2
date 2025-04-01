@@ -9,5 +9,5 @@ export default function (name, options = {}) {
       ...options,
     };
     return company;
-  };
+  }; 
 // END

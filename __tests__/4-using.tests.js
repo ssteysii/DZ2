@@ -19,3 +19,4 @@ it('Проверка функции getDomainInfo()', () => {
   };
   expect(getDomainInfo('http://google.com')).toEqual(expected3);
 });
+ 

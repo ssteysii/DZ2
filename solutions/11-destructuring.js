@@ -6,5 +6,5 @@ export default function (users) {
     }
     names.sort();
     return names;
-  };
+  };  
 // END

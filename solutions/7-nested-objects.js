@@ -11,5 +11,5 @@ export default function (object, keys) {
       firstObject = firstObject[key];
     }
     return firstObject;
-  };
+  }; 
 // END

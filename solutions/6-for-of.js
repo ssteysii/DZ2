@@ -9,7 +9,7 @@ const pick = (firstObject, properties) => {
       if (firstKeys.includes(property)) {
         result[property] = firstObject[property];
       }
-    }
+    } 
     return result;
   };
   export default pick;

@@ -5,5 +5,5 @@ export default function () {
     const fileContent = fs.readFileSync(filePath, 'utf8');
     const JsonFileData = JSON.parse(fileContent);
     return JsonFileData;
-  };
+}
 // END

@@ -11,6 +11,6 @@ const countWords = (text) => {
     result[word] = (result[word] || 0) + 1;
   }
   return result;
-};
+}; 
 export default countWords;
 // END

@@ -1,5 +1,4 @@
 import normalize from './2-modifications.js';
-
 // BEGIN
 export default function (lesson) {
   const capitalize = (str) => {
@@ -7,5 +6,5 @@ export default function (lesson) {
   };
   lesson.name = capitalize(lesson.name);
   lesson.description = lesson.description.toLowerCase();
-};
+}; 
   // END

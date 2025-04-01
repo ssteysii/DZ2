@@ -7,5 +7,5 @@ export default function (object) {
       }
     }
     return result;
-  };
+  }; 
 // END

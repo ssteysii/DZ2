@@ -8,5 +8,5 @@ export default (company1, company2) => {
   }
   return true;
 };
-
+ 
 // END

@@ -15,5 +15,5 @@ export default (secondObject, keys, firstObject) => {
       }
     }
     return secondObject;
-  };
+  }; 
 // END

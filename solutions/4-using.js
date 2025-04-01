@@ -9,7 +9,7 @@ const getDomainInfo = (adress) => {
     return {
       scheme: scheme,
       name: name,
-    };
+    }; 
   };
   
   export default getDomainInfo;
